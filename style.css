@@ -148,7 +148,9 @@ main input{
 
 .four-cart{
     width: 100px;
+    height:50px;
     background: red;
     margin-left: 250px;
     margin-top: 20px;
+    border-radius: 10px;
 }
